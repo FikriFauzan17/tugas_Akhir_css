@@ -1,0 +1,15 @@
+nav{
+  background-color: #1B2631 ;
+}
+.rounded-circle{
+  width: 200px;
+  height:200px;
+}
+.d-block{
+  width:100% ;
+  height:500px;
+}
+p{
+  align-items: center;
+
+}
